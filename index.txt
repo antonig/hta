@@ -1,7 +1,7 @@
 Just some exercises to rediscover the forgotten art of hta...
 
 crono:      
-chronometer on screen using document.setinterval
+chronometer on screen using document.setinterval 
 
 factoriza2: 
 prints factors of entered number up to 10^16-1  or declares it a prime. If number not prime it fins next prime up and down. This last function mqy give timeout errors as it's processor intensive.
